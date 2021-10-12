@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+}
+
+.imgg {
+    width: 100%;
+    height: auto;
+  }
+  
+.div1 {
+  background-color: red;
+  font-size: 4ch;
+}
+
+img {
+    border-radius: 8px;
+  }
+  .divq {
+    background-color: silver;
+    display: flex;
+    
+  }
