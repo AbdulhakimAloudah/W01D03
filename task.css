@@ -14,9 +14,15 @@ h1 {
 
 img {
     border-radius: 8px;
+    width: 100%;
   }
   .divq {
     background-color: silver;
-    display: flex;
+    border: 1px solid black;
     
+  }
+
+  .sc {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
   }
